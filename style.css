@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    border-bottom: 7px solid green;
+}
+
+.custom-hover {
+    background-color: green;
+    border: 2px solid green;
+    transition: 0.3s;
+}
+
+.custom-hover:hover {
+    transform: translateY(-5px);
+    box-shadow: 5px 5px 3px 0 lightgrey;
+    background-color: white;
+    color: green;
+    font-weight: bold;
+    border: 2px solid green;
+}
