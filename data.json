@@ -1,24 +1,17 @@
-
 [
-
-{
-    "id": "1",
-    "title": "Ferrari",
-    "img": "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/05/30/118050.jpg"
-},
-
-{
-    "id": "2",
-    "title": "Civic",
-    "img": "https://www.freepik.com/premium-ai-image/black-sports-car-isolated-white-background_300106280.htm#fromView=keyword&page=1&position=46&uuid=b72edeb7-fcba-45d2-9400-a2ccb0810b6b&query=Car"
-},
-
-{
-    "id": "3",
-    "title": "Lamborghini",
-    "img": "https://www.freepik.com/free-ai-image/futuristic-exploration-dubai-s-evolving-cityscape_152284010.htm#fromView=keyword&page=2&position=38&uuid=b72edeb7-fcba-45d2-9400-a2ccb0810b6b&query=Car"
-}
-
-
-
+    {
+        "id": "1",
+        "title": "Ferrari",
+        "img": "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/05/30/118050.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Civic",
+        "img": "https://imgd.aeplcdn.com/370x208/n/cw/ec/27074/civic-exterior-right-side-view.jpeg?q=80"
+    },
+    {
+        "id": "3",
+        "title": "Lamborghini",
+        "img": "http://127.0.0.1:5500/assets/carousel-image.jpg"
+    }
 ]
